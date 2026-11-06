@@ -1,8 +1,8 @@
 Self-taught programmer with 4+ years of experience.
 
-🪖**Prev. Experience**: Freelance Web Engineer (fullstack, 2022 - 2026)
+🪖**Prev.**: Freelance Web Engineer (fullstack, 2022 - 2026)
 
-🎯 **Current Focus**: Machine Learning, Systems Programming, and Inference Engineering.
+🎯 **Current Focus**: Machine Learning and Systems Programming.
 
 🛠️ **Primary Languages**: Python, C++.
 
