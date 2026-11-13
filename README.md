@@ -1,1 +1,1 @@
-Self-taught programmer • building in Web, AI, Systems & Robotics. 
+Self-taught programmer building in Web, AI, Systems & Robotics. 
